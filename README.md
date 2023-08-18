@@ -7,6 +7,10 @@ Required packages:
 * `pipe`
 * `hypothesis`
 
+Module versions that the code was tested with, is provided in the `requirements.txt` file.
+
+__Python version__ : `3.11.4`
+
 ## Documentation
 
 The current API provides the following two access points
