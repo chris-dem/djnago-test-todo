@@ -39,4 +39,9 @@ Ensure that all the modules are installed. All of the
 commands are expected to be run from the root directory of project.
 
 1. How to run : `python manage.py runserver`
-2. How to test : `python manage.py test`"# djnago-test-todo" 
+2. How to test : `python manage.py test`
+
+In case the model, is not running or missing, try the following:
+
+1. `python manage.py makemigrations`
+2. `python manage.py migrate`
